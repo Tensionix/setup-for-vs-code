@@ -1,8 +1,8 @@
 {
   "schema": "audion.build_licenses.components.v1",
-  "generated_utc": "2026-09-04T02:34:25Z",
+  "generated_utc": "2026-09-18T03:00:39Z",
   "project_id": "audion-setup-for-vs-code",
   "project_name": "Audion Setup for VS Code",
-  "scan_root": "S:\\Release\\Audion Setup for VS Code",
+  "scan_root": "S:\\Releases\\Audion Setup for VS Code",
   "components": []
 }

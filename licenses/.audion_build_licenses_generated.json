@@ -1,7 +1,7 @@
 {
   "schema": "audion.build_licenses.generated_marker.v1",
-  "generated_utc": "2026-09-04T02:34:25Z",
-  "run_id": "20260904T023425Z_audion-setup-for-vs-code_dce37622",
+  "generated_utc": "2026-09-18T03:00:39Z",
+  "run_id": "20260918T030038Z_audion-setup-for-vs-code_1de317af",
   "managed_files": [
     "THIRD_PARTY_NOTICES.txt",
     "SOURCE_CODE_AVAILABILITY.txt",

@@ -1,11 +1,11 @@
 {
   "schema": "audion.build_licenses.pack_manifest.v1",
-  "generated_utc": "2026-09-04T02:34:25Z",
-  "run_id": "20260904T023425Z_audion-setup-for-vs-code_dce37622",
+  "generated_utc": "2026-09-18T03:00:39Z",
+  "run_id": "20260918T030038Z_audion-setup-for-vs-code_1de317af",
   "project_id": "audion-setup-for-vs-code",
   "project_name": "Audion Setup for VS Code",
-  "scan_root": "S:\\Release\\Audion Setup for VS Code",
-  "output_dir": "S:\\Release\\Audion Setup for VS Code\\licenses",
+  "scan_root": "S:\\Releases\\Audion Setup for VS Code",
+  "output_dir": "S:\\Releases\\Audion Setup for VS Code\\licenses",
   "files": [
     {
       "name": "THIRD_PARTY_NOTICES.txt",
@@ -19,8 +19,8 @@
     },
     {
       "name": "COMPONENTS.json",
-      "sha256": "a8057010a5eb25a107c990be2f2d09a4e0bf9a68ed69689e022e1d22ce5efd53",
-      "size": 263
+      "sha256": "90a8c1491e702034329ab42ffcc9fa0bcc86af0e987bc6fb0e37cf8345c20cda",
+      "size": 264
     },
     {
       "name": "_records.json",
@@ -29,8 +29,8 @@
     },
     {
       "name": "LICENSE_SCAN_REPORT.md",
-      "sha256": "74f3b58adb74fa85e6ff58bba4cf503c90e2cf9ff585db4a85f4035df64e8ec7",
-      "size": 650
+      "sha256": "8750b393391c64a613042afa220f1321203af508157a6fe5d7638862340444e7",
+      "size": 653
     }
   ]
 }
